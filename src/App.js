@@ -41,9 +41,9 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'TR407',
+      name: 'Muslim Daily: Prayer & Quran',
       image: currency,
-      link: 'https://play.google.com/store/apps/details?id='
+      link: 'https://play.google.com/store/apps/details?id=com.muslim.prayer.salah.fasting.reminder'
     }
   ];
 
